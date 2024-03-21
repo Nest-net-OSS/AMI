@@ -1,2 +1,2 @@
 # AMI
-Ai Mock Interview
+AI Mock Interview
